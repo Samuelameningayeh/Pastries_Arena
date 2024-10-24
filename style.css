@@ -454,7 +454,7 @@ ol a:hover{
     width: 90%;
 }
 .skills-content .right .css::before{
-    width: 60%;
+    width: 50%;
 }
 .skills-content .right .js::before{
     width: 80%;
@@ -466,7 +466,7 @@ ol a:hover{
     width: 70%;
 }
 .skills-content .right .java::before{
-    width: 80%;
+    width: 50%;
 }
 
 /* teams section styling */
